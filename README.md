@@ -30,8 +30,6 @@ char  ysfh(int k)
         case 5:  k= zs(4); goto l1; break;
     }
     }
-
-
 }
 
 int main ()
